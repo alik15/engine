@@ -1,0 +1,7 @@
+include
+lib
+bin
+vendor/
+spdlog/
+.idea
+.DS_Store
